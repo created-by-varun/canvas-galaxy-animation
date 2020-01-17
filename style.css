@@ -8,7 +8,7 @@
   z-index: 1;
 }
 #large-header {
-  background-image: url("https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/img/demo-1-bg.jpg");
+  background-image: url("bg.jpg");
 }
 .main-title {
   font-size: 200px;
